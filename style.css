@@ -788,6 +788,8 @@
 @media (max-width: 560px){
     .container{
         max-width: 500px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     body{
         width: 100%;

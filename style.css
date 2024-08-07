@@ -734,7 +734,7 @@
     }
 
     .header-text{
-        width: 120%;
+        width: 100%;
     }
 
     .header-text h4{
@@ -887,4 +887,11 @@
         left: 20px;
     }
 
+}
+
+@media (max-width: 374px){
+    .container{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
